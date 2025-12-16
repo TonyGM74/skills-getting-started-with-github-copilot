@@ -48,7 +48,6 @@ activities = {
         "max_participants": 16,
         "participants": ["grace@mergington.edu", "jack@mergington.edu"]
     },
-
     # Intellectual activities
     "Math Club": {
         "description": "Solve challenging math problems and prepare for competitions",
